@@ -1,16 +1,18 @@
-## Hi there 👋
+## yellow!
+My name is Muhammad Hasbi Ash-Shiddiq. I am an 18 years old Information Systems student in Universitas Terbuka (Indonesia Open University).
 
-<!--
-**u70i1/u70i1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## some tech i've comfortably used
+- Python (FastAPI, Django, SQLAlchemy, Uvicorn)
+- Javascript (React, Svelte, Astro)
+- HTML (HTMX)
+- CSS (TailwindCSS)
+- Linux (Ubuntu, Arch)
 
-Here are some ideas to get you started:
+## currently
+- Learning more technologies around back-end programming (Go, Java Spring)
+- Exploring lower level programming with C + raylib
+- Exploring creative programming ([p5.js](https://p5js.org), [The Book of Shaders](https://thebookofshaders.com))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## spoken languages
+- Indonesian (native)
+- English (professional)
