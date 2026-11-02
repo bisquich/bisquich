@@ -6,6 +6,7 @@ My name is Muhammad Hasbi Ash-Shiddiq. I am an 18 years old Information Systems 
 - Javascript (React, Svelte, Astro)
 - HTML (HTMX)
 - CSS (TailwindCSS)
+- SQL (Postgresql, MySQL/MariaDB, SQLite)
 - Linux (Ubuntu, Arch)
 
 ## currently
